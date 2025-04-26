@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:cursor_ai_play/my_app.dart';
+import 'package:cursor_ai_play/presentation/my_app.dart';
 
 void main() {
   testWidgets('Counter countdown test', (WidgetTester tester) async {
